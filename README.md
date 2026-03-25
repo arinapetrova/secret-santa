@@ -1,6 +1,6 @@
 # cryptography_app
 
-Hello, this is our Cryptography final project.
+Hello, this is my Cryptography final project.
 
 Secret Santa App
 
